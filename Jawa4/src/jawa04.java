@@ -18,7 +18,7 @@ public class jawa04 {
 		 cdPrice = Double.parseDouble(JOptionPane.showInputDialog("Please enter the price of the CD in U.S.dollars"));
 
 		 cdQuantity = Integer.parseInt(JOptionPane.showInputDialog("Please enter the quantity to be purchased"));
-		 cdSubtotal = cdPrice*cdQuantity;
+		 //cdSubtotal = cdPrice*cdQuantity;
     
 
 	}
