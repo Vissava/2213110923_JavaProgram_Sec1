@@ -1,4 +1,4 @@
 StudentID:2213110923
 Fullname:Vissava Lekkla
-AKA:Vissava
-Lab Sheet 5 : Repeat Lab Sheet 1-4
+AKA:Safe
+Lab Sheet 6 : Array in Java
