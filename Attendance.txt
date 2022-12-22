@@ -1,4 +1,4 @@
 StudentID:2213110923
 Fullname:Vissava Lekkla
 AKA:Safe
-Lab Sheet 6 : Array in Java
+Lab Sheet 7 : Class and Object
